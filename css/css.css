@@ -1,0 +1,24 @@
+#gameContainer{
+    text-align: center;
+    height: 1100vh;
+    background-image: url(../img/background.jpg);
+}
+#gameBoard{
+    margin-top: 5em;
+    width: 20em;
+    border: 3px solid rgb(255, 255, 255);
+}
+#scoreText{
+    color:whitesmoke;
+    font-family: "consolas", monospace;
+    font-size: 4em;
+}
+#resetBtn{
+    font-family: cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
